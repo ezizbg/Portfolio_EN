@@ -1,6 +1,6 @@
 # Portfolio Website
 
-👉 https://ezizbg.github.io/Portfolio_RU/
+👉 https://ezizbg.github.io/Portfolio_EN/
 
 ---
 
@@ -24,12 +24,12 @@ The project is focused on clean UI, responsive layout, and structured frontend a
 
 ## Features
 
-* 📱 Fully responsive layout
-* 🎨 Clean and structured UI
-* ⚡ Fast development with Vite
-* 🧩 Modular styles using SCSS
-* 🔗 Project showcase section
-* 💻 Interactive UI elements with JavaScript
+* Fully responsive layout
+* Clean and structured UI
+* Fast development with Vite
+* Modular styles using SCSS
+* Project showcase section
+* Interactive UI elements with JavaScript
 
 ---
 
