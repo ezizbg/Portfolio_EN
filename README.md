@@ -1,6 +1,6 @@
 # Portfolio Website
 
-👉 https://ezizbg.github.io/Portfolio_EN/
+https://ezizbg.github.io/Portfolio_EN/
 
 ---
 
