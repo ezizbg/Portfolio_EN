@@ -1139,10 +1139,11 @@ body {
 
     &-html,
     &-css,
-    &-sass,
+    &-ts,
     &-js,
+    &-react,
     &-vite,
-    &-gh,
+    &-git,
     &-figma {
       display: flex;
       flex-direction: column;
@@ -1171,9 +1172,15 @@ body {
       }
     }
 
-    &-sass {
+    &-ts {
       &:hover {
-        fill: #cd6799;
+        fill: #3178c6;
+      }
+    }
+
+    &-react {
+      &:hover {
+        fill: #61dafb;
       }
     }
 
@@ -1191,9 +1198,9 @@ body {
       }
     }
 
-    &-gh {
+    &-git {
       &:hover {
-        fill: #fff;
+        fill: #f05032;
       }
     }
 
